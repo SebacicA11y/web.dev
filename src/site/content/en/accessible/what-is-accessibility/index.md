@@ -79,5 +79,5 @@ improve readability or prevent headaches.
 
 ## Next steps
 
-Now that you have a high level understanding of accessibility, it's time to dive
+Now that you have a top level understanding of accessibility, it's time to dive
 in to more specific details, starting with keyboard access.
