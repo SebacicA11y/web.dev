@@ -10,7 +10,7 @@ web_lighthouse:
   - font-display
 ---
 
-Fonts are often large files that take awhile to load.
+Fonts are often large files that take a while to load.
 Some browsers hide text until the font loads,
 causing a [flash of invisible text (FOIT)](/avoid-invisible-text).
 
